@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pasoobjetos</string>
+    <string name="agregar">Agregar</string>
+    <string name="nombre">Usuario</string>
+    <string name="email">Email</string>
+    <string name="twitter">Twitter</string>
+    <string name="telefono">Telefono</string>
+    <string name="fnacimiento">Fecha de Nacimiento</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
